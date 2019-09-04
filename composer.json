@@ -10,7 +10,7 @@
   "require": {
     "php": "^7.2",
     "spatie/laravel-permission": "2.37.*",
-    "illuminate/database": "5.8.*"
+    "illuminate/database": "6.0.x-dev"
   },
   "autoload": {
     "psr-4": {
