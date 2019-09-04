@@ -9,8 +9,7 @@
   "license": "MIT",
   "require": {
     "php": "^7.2",
-    "spatie/laravel-permission": "2.37.*",
-    "illuminate/database": "6.0.x-dev"
+    "spatie/laravel-permission": "dev-master"
   },
   "autoload": {
     "psr-4": {
